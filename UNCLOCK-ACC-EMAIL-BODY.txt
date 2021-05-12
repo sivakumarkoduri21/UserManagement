@@ -1,0 +1,16 @@
+Hi  {FNAME}, {LNAME}  :
+
+<br/>
+
+Welcome to IES family, your Registration is almost completed, please use below</br>
+details to Unlock account.</br>
+
+Temporary Password :{TEMP-PWD} <br/>
+<br/>
+
+<a href='http://localhost:8091/unlockAcc?email={EMAIL}.'>ClickHear  </a>      
+
+<br/>
+
+Thanks & Regards.<br/>
+IES Team.<br/>
